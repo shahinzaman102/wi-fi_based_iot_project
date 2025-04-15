@@ -1,4 +1,4 @@
-# IoT-based Light Intensity Monitoring Project
+# Wi-Fi based IoT Project (Light Intensity Monitoring)
 
 #### This project is inspired by --> ####
 
