@@ -8,4 +8,4 @@
 
 **Wi-Fi based IoT Project Running Guide :** <https://docs.google.com/document/d/1EHGxiaQYK-ZM7dNdwXdB-7tEGWmoqH0-b6mKg22kgA4/edit?usp=sharing>
 
-**Upgrading it to LoRaWAN based Project :** <https://www.youtube.com>
+**Upgrading it to LoRaWAN based IoT Project :** <https://www.youtube.com>
